@@ -1,8 +1,10 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+### `git clone git@github.com:ChetnaSingh23/react-learn.git`
 
 In the project directory, you can run:
+
+### `npm install`
 
 ### `npm start`
 
